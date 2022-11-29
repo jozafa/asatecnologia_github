@@ -4,5 +4,4 @@ Iniciar o trabalho
 
 ```
 git init
-
 ```
